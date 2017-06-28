@@ -1,0 +1,5 @@
+Plugin Name : Slider.js
+Prerequisite :
+  - Jquery MUST be loaded for the plugin to work
+  -  Link to Jquery CDN <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  -
